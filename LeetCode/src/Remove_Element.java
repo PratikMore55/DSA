@@ -16,7 +16,6 @@ public class Remove_Element {
     }
 
                                  // SOLUTION
-
     static int removeElement(int[] nums, int val) {
         int i = 0;
 
