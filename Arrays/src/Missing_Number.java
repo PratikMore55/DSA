@@ -24,7 +24,7 @@
 //    }
 //}
 
-// SOLUTION 1 == Add method
+// SOLUTION 2 == Add method
 
 //public class Missing_Number {
 //    public static void main(String[] args) {
@@ -47,7 +47,7 @@
 //}
 
 
-// SOLUTION 1 == XOR method
+// SOLUTION 3 == XOR method
 
 
 public class Missing_Number {
